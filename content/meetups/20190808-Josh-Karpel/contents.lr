@@ -1,0 +1,15 @@
+title: The Python Data Model
+---
+author: Josh Karpel
+---
+pub_date: 2019-08-08
+---
+future: True
+---
+
+body:
+
+Learn about Python's "data model", which lets you write beautiful, idiomatic Python by making your objects behave like native parts of the language. We'll also touch on Domain-Driven Design and API design.
+
+——-
+

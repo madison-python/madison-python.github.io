@@ -1,0 +1,14 @@
+[project]
+name = Madpy (Madison Python Meetup) 
+description = Madpy (Madison Python Meetup) 
+url = https://madison-python.github.io
+url_style = relative
+language = en-US
+keywords = dev, software, programming, blog, python
+author =
+
+[servers.ghpages]
+target = ghpages+https://madison-python/madison-python.github.io
+
+[packages]
+lektor-markdown-highlighter = 0.1

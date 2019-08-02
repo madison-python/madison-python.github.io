@@ -1,0 +1,6 @@
+name: madpy-website
+channels:
+    - conda-forge
+dependencies:
+    - python=3
+    - lektor
