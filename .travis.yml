@@ -11,7 +11,7 @@ script:
   - set -e
   - pip install Lektor doctr
   - lektor build --output-path build
-  - doctr deploy . --built-docs build/
+  - doctr deploy . --deploy-branch-name gh-pages --built-docs build/
 
 notifications:
   email: false
