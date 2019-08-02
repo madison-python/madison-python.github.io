@@ -1,0 +1,17 @@
+language: python
+python:
+  - 3.7
+
+sudo: false
+env:
+  global:
+    secure: "Ap2+4unAI9Jn/wi8IaaGrKf1tpIUN+hiYy4hsVH0WPCM7KTRmYwBzY/nSjMCLTlGgAANv+kjrpiVKsI/SsgNaWpX1cjAMrHtqgGuLHYyY8HArfPEHc3O2MumjClGeN6UC9HxRIiFHSlicbvhQSPo9M4dVwOdNRq7ttufjKIXs7S8+0t9wdmnNbs1l633Bg7R1wlCza1Riom2LBQ2JgH4EtrAr5hfgL1zx0N7nso3ye5h2cFGooDKrI49mj0uQBx+hiS5lxAkFKUAvCZFnuuUs4N+NK6AIJI6wCOwR4DR9HXUyVe89qgMT3PoeGnpJFSatB0rRHx4w2JdZJkicG90IQ7xnjTMDK2/fGfEyoFpQ7pVqm8rzAS/yYvx8uooyBy3BnxE5nlHwEEnxQMOXhRh0DE0p8UbaGY301tkEcaVXM/1R4vgFbb/6wST/vDbkBWS1x5iAwtPeQ8oSWDl+k8i+kcQd/aeCaR34c9fLsV1y/Lwt4+gJ5VjVYadxeJ0SYFKF6364sn/doqIiLqsRVnIUFm2A9oQkQ/KtzMkkSZusfQT5fUJOIGHFshumCd0Uw7IfwUN2ABBhqiDQFnpuiypsMi3xZYk2LMsoFj23SHyCgdLqcD1GqeHQCjPcH2AWvVezV3kebEdmxjWhX/G7zSmHr+NMl16sJnd7nk9kG5NJq0="
+
+script:
+  - set -e
+  - pip install Lektor doctr
+  - lektor build --output-path build
+  - doctr deploy . --built-docs build/
+
+notifications:
+  email: false
