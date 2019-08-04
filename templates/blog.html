@@ -3,12 +3,12 @@
 {% from "macros/pagination.html" import render_pagination %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <h2>Upcoming Meetups</h2>
+  <h2 class="index-title">Upcoming Meetups</h2>
   {% for child in this.pagination.items %}
       {{  future_title_date_link(child) }}
   {% endfor %}
 
-  <h2>Past Meetups</h2>
+  <h2 class="index-title">Past Meetups</h2>
   {% for child in this.pagination.items %}
     {{ title_date_link(child) }}
   {% endfor %}
