@@ -1,7 +1,7 @@
 Madpy Website
 =============
 
-[![Build Status](https://travis-ci.org/madison-python/madison-python.github.io.svg?branch=master)](https://travis-ci.org/madison-python/madison-python.github.io)
+[![Build Status](https://travis-ci.org/madison-python/madison-python.github.io.svg?branch=source)](https://travis-ci.org/madison-python/madison-python.github.io)
 
 This repository contains source code for the Madpy website
 
