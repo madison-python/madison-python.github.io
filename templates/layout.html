@@ -17,33 +17,36 @@
 <title>{% block title %}Welcome{% endblock %} — Madpy</title>
 </head>
 <body>
-    <div class="container">
+  <div class="container">
 
-        <div class="row">
-            <div class="three columns">
-                <nav>
-                    <h3 id="logo"><img src="{{ '/static/images/madpy-logo.svg'|url }}" alt="Madpy logo" width="200" height="200"></h3>
-                    <ul>
-                        <li{% if this._path == '/' %} class="active"{% endif
-                          %}><a href="{{ '/'|url }}">About Us</a></li>
-                        {% for href, title in [
-                          ['/meetups', 'Meetups'],
-                        ] %}
-                          <li{% if this.is_child_of(href) %} class="active"{% endif
-                            %}><a href="{{ href|url }}">{{ title }}</a></li>
-                        {% endfor %}
-                        <li><a target="_blank" href="https://twitter.com/MadisonPython">Twitter</a>
-                        <li><a target="_blank" href="https://github.com/madison-python">Github</a>
-                        <li><a target="_blank" href="https://www.meetup.com/MadPython/">Meetup.com</a>
-                    </ul>
-                </nav>
-                &nbsp;
-            </div>
+    <div class="row">
+        <div class="three columns">
+          <nav>
+            <h3 id="logo"><img src="{{ '/static/images/madpy-logo.svg'|url }}" alt="Madpy logo" width="200" height="200"></h3>
+            <ul>
+              <li{% if this._path == '/' %} class="active"{% endif
+                %}><a href="{{ '/'|url }}">About</a></li>
+              {% for href, title in [
+                ['/meetups', 'Events'],
+              ] %}
+                <li{% if this.is_child_of(href) %} class="active"{% endif
+                  %}><a href="{{ href|url }}">{{ title }}</a></li>
+              {% endfor %}
+              <li><a target="_blank" href="https://twitter.com/MadisonPython">Twitter</a>
+              <li><a target="_blank" href="https://github.com/madison-python">Github</a>
+              <li><a target="_blank" href="https://www.meetup.com/MadPython/">Meetup.com</a>
+            </ul>
+          </nav>
+          &nbsp;
+        </div>
 
-     <div class="nine columns">
-       {% block body %}
-       {% endblock %}
-     </div>
+        <div class="nine columns">
+          {% block body %}
+          {% endblock %}
+        </div>
+
+    </div>
+  </div>
 
 <!-- JS
 ================================================== -->
