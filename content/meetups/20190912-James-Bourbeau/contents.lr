@@ -1,0 +1,14 @@
+title: Accelerating Numerical Python with Numba
+---
+author: James Bourbeau
+---
+pub_date: 2019-09-12
+---
+future: True
+---
+
+body:
+
+This talk will discuss the ins and outs of Numba, a library for accelerating Python and NumPy code. Numba allows Python users to achieve performance approaching those of lower-level languages (like C) by lightly annotating their existing Python functions. We'll cover how/when to use Numba and discuss the basics of how Numba's internals work. 
+
+[James Bourbeau](https://github.com/jrbourbeau) is a Software Engineer at Quansight and holds a PhD in Physics from the University of Wisconsin-Madison. He is primarily focused on developing tools in the Python data science ecosystem and is passionate about helping foster sustainable communities surrounding open source projects.
