@@ -1,9 +1,9 @@
-Madpy Website
+MadPy Website
 =============
 
 [![Build Status](https://travis-ci.org/madison-python/madison-python.github.io.svg?branch=source)](https://travis-ci.org/madison-python/madison-python.github.io)
 
-This repository contains source code for the Madpy website
+This repository contains source code for the MadPy website
 
 
 ## Setup
@@ -38,7 +38,7 @@ lektor build --output-path </path/to/build/directory>
 
 ## Deployment
 
-This website is hosted using GitHub Pages. Note that for organization pages, the build website must [live in the `master` branch](https://help.github.com/en/articles/user-organization-and-project-pages#user-and-organization-pages-sites) of the repository. Because of this, we use the `source` branch of `madison-python.github.io` for development and use [`doctr`](https://github.com/drdoctr/doctr) to automatically deploy our built website to the `master` branch.
+This website is hosted using GitHub Pages. Note that for organization pages, the build website must [live in the `master` branch](https://help.github.com/en/articles/user-organization-and-project-pages#user-and-organization-pages-sites) of the repository. Because of this, we use the `source` branch of `madison-python.github.io` for development and use GitHub Actions to automatically deploy our built website to the `master` branch.
 
 
 ## License

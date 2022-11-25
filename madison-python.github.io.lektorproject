@@ -1,6 +1,6 @@
 [project]
-name = Madpy (Madison Python Meetup) 
-description = Madpy (Madison Python Meetup) 
+name = MadPy (Madison Python Meetup)
+description = MadPy (Madison Python Meetup)
 url = https://madison-python.github.io
 url_style = relative
 language = en-US
