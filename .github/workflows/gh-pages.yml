@@ -16,13 +16,14 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Lektor build
-      - run: ls -l
-      - run: pwd
-      - run: sudo apt update
-      - run: sudo apt install python3-venv pipx
-      - run: pipx ensurepath
-      - run: pipx install lektor
-        run: lektor build
+        run: |
+            ls -l
+            pwd
+            sudo apt update
+            sudo apt install python3-venv pipx
+            pipx ensurepath
+            pipx install lektor
+            lektor build
 
       - name: Publish generated content to GitHub Pages
         uses: tsunematsu21/actions-publish-gh-pages@v1.0.2
