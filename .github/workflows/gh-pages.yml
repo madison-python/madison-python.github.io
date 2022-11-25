@@ -1,0 +1,35 @@
+name: Publish to GitHub Pages
+
+on:
+  push:
+    branches:
+      - '*'         # matches every branch that doesn't contain a '/'
+      - '*/*'       # matches every branch containing a single '/'
+      - '**'        # matches every branch
+      - '!master'   # excludes master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v3
+
+      - name: Deploy to AWS CDN
+      - uses: actions/checkout@v3
+      - run: ls -l
+      - run: pwd
+      - run: sudo apt update
+      - run: sudo apt install python3-venv pipx
+      - run: pipx ensurepath
+      - run: pipx install lektor
+        run: lektor build
+
+      - name: Generate your awesome content
+        run: # Your amazing generate action
+
+      - name: Publish generated content to GitHub Pages
+        uses: tsunematsu21/actions-publish-gh-pages@v1.0.2
+        with:
+          branch: master
+          token: ${{ secrets.ACCESS_TOKEN }}
