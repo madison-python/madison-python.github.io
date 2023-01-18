@@ -4,16 +4,16 @@ author: MadPy
 ---
 body:
 
-This month, MadPy members will be presenting lightning talks!
+![](/static/images/2023-01-12-lightning-talks-collage.jpg)
 
-Topics may include:
-* Rich, Textual, and the Textualize family of tools
-* CloudOps and reproducibility with Pants
-* Opinionated takes on packaging configuration
+MadPy presented lightning talks!
 
-Join us!
+* [_Rich_](https://github.com/Textualize/rich), presented by Eric Staats
+* [_Textual_](https://github.com/Textualize/textual), presented by Josh Karpel
+* [_Pants_](https://www.pantsbuild.org/), presented by Pierce Edmiston
+
 ---
-future: yes
+future: no
 ---
 pub_date: 2023-01-12
 ---
