@@ -4,7 +4,7 @@ author: Davi Post
 ---
 body:
 
-![](/static/images/2023-03-09-code-cleanup.png)
+![](/static/images/2023-03-09-code-cleanup-speaker.png)
 
 We will start this meeting with a short review of good coding principles, then dig into some bad code and clean it up. The primary goal is readability. This interactive session is aimed at novice to intermediate level developers. Attendees will be asked what needs cleaning, and how you would improve it. Later, experts may suggest solutions. We'll look at a variety of examples.
 
@@ -12,6 +12,6 @@ Our presenter, Davi Post has more than 25 years experience as a software develop
 
 Do you have some bad code to contribute? We are looking for a few more relatively independent functions or methods, no more than 30 lines each. Send samples to DaviP on Meetup or post to MadPy on Slack.
 ---
-future: yes
+future: no
 ---
 pub_date: 2023-03-09
