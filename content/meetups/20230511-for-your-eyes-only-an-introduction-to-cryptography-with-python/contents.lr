@@ -4,12 +4,12 @@ author: Eric Staats
 ---
 body:
 
-![](/static/images/2023-05-11-for-your-eyes-only-card.png)
+![](/static/images/2023-05-11-for-your-eyes-only-speaker.jpg)
 
 In order to pass a secret message to your friend (or a web server) or securely distribute software, you need cryptography! This talk will cover the basics of symmetric and asymmetric encryption, signing vs. encrypting, and the libraries that make it work in Python.
 
 Eric Staats is a mostly self-taught software developer working at Verve Industrial. Outside of using Python professionally, he enjoys dabbling in the full stack web world with Flask and FastAPI (and React). Outside of programming entirely, he enjoys road biking and playing guitar.
 ---
-future: yes
+future: no
 ---
 pub_date: 2023-05-11
