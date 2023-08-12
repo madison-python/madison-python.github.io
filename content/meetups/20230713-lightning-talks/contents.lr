@@ -1,0 +1,20 @@
+title: Lightning Talks
+---
+author: MadPy
+---
+body:
+
+![](/static/images/2023-07-13-lightning-talks.png)
+
+MadPy presented lightning talks!
+
+* [pre-commit](https://pre-commit.com), presented by David Hoese -- [Link to David's slides](https://docs.google.com/presentation/d/1SJrErhYtjtekbeqkjec0OD4g-NZi1yns5O7pbqbWBOI/edit?usp=sharing)
+* [GitHub Actions](https://github.com/features/actions), presented by Iain McConnell -- [Link to Iain's slides](https://docs.google.com/presentation/d/18WLBZ5tnaQGa0xqz32TL0yOoQGYjmD0PbsHK7jvFe5Q/edit?usp=sharing)
+* [Structural Pattern Matching](https://peps.python.org/pep-0636/), presented by Josh Karpel -- [Link to Josh's code](https://github.com/JoshKarpel/madpy-structural-pattern-matching)
+
+---
+pub_date: 2023-07-13
+---
+twitter_handle: MadisonPython
+---
+future: no
