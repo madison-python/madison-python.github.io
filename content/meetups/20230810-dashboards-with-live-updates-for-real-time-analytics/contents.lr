@@ -4,7 +4,8 @@ author: RJ Nowling
 ---
 body:
 
-![](/static/images/2023-08-10-dashboards-with-live-updates-for-real-time-analytics.png)
+![](/static/images/2023-08-10-dashboards-with-live-updates-1.jpg)  
+![](/static/images/2023-08-10-dashboards-with-live-updates-2.jpg)
 
 Next generation data infrastructure with streaming capabilities are enabling insights to be delivered in real time. In this talk, we’ll look at an example of a sales dashboard with live updates. The dashboard will monitor a message broker for sales events and update graphs and metrics as new events arrive. Through this example, we’ll introduce the basics of working with a streaming data platform, compare the streaming approach with more traditional daily batch jobs, and discuss patterns for calculating statistics from streaming data. The talk will include discussion of the implementation and review of Python code examples.
 
@@ -16,4 +17,4 @@ pub_date: 2023-08-10
 ---
 twitter_handle: discretestates
 ---
-future: yes
+future: no
