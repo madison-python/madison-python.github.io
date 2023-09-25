@@ -4,6 +4,26 @@ subtitle: Madison Python Meetup
 ---
 body:
 
+  <div class="container">  
+    <div class="row">  
+      <div class="six columns">  
+        <img src="/static/images/2023-09-14-madpy-social-great-dane-hilldale.png" alt="Image 1" class="u-full-width">  
+      </div>  
+      <div class="six columns">  
+        <img src="/static/images/2023-06-08-interactive-plots-2.jpg" alt="Image 2" class="u-full-width">  
+      </div>  
+    </div>  
+    <div class="row">  
+      <div class="six columns">  
+        <img src="/static/images/2023-06-08-interactive-plots-1.jpg" alt="Image 3" class="u-full-width">  
+      </div>  
+      <div class="six columns">  
+        <img src="/static/images/2023-08-10-dashboards-with-live-updates-3.jpg" alt="Image 4" class="u-full-width">  
+      </div>  
+    </div>  
+  </div>
+
+
 ### About
 
 MadPy is a group for engaging in all things surrounding the Python programming language. We welcome all levels of experience and interests (e.g. Python's use in data science, web development, hobby projects, anything!). We meet on the second Thursday of every month from 6:30-8:00 PM at the Madison Public Library &mdash; 201 W Mifflin St, 3rd Floor. For more information, see our [list of past and future events](./meetups/).
