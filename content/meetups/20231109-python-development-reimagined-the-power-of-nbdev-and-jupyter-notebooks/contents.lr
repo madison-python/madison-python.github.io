@@ -4,7 +4,7 @@ author: Kevin Bird
 ---
 body:
 
-![](/static/images/2023-11-09-python-development-reimagined.png)
+![](/static/images/2023-11-09-python-development-reimagined-1.png)
 
 Join us in this informative session as we explore a fresh approach to Python development with [nbdev](https://nbdev.fast.ai/) in the Jupyter Notebook environment. Regardless of your Python experience level, this talk will introduce you to the potential benefits of using nbdev, a powerful Python library. We'll showcase how this combination can streamline your development process, including library creation and documentation generation, making coding more efficient and interactive. Whether you're just starting or a seasoned developer, you'll find practical insights for improving your Python projects. Join us in November and be part of the Python development transformation.
 
@@ -12,6 +12,6 @@ Kevin Bird, a Data Scientist at Vitro Glass and Co-Founder of The Problem Solver
 
 We'll be meeting at the downtown Madison library, 201 W Mifflin St, room 302, on 2023-11-09 at 6:30pm. As always, this event is free and open to the public. Attendees agree to adhere to the [MadPy Code of Conduct](https://github.com/madison-python/code-of-conduct).
 ---
-future: yes
+future: no
 ---
 pub_date: 2023-11-09
