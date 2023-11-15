@@ -1,6 +1,6 @@
 title: Capital Brewery Gathering
 ---
-author: Ed Rogers
+author: MadPy
 ---
 body:
 
@@ -11,3 +11,5 @@ Capital Brewery has an outdoor biergarten with picnic tables, beverages (both wi
 future: no
 ---
 pub_date: 2022-09-15
+---
+fediverse_handle: @madpy@fosstodon.org

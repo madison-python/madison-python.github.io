@@ -7,9 +7,9 @@
   {% endif %}
   <p class="meta">
     By
-    {% if post.twitter_handle %}
-      <a href="https://twitter.com/{{ post.twitter_handle
-        }}">{{ post.author or post.twitter_handle }}</a>
+    {% if post.fediverse_handle %}
+      {% set user, host = post.fediverse_handle.split('@')[1:] %}
+      <a href="https://{{ host }}/@{{ user }}">{{ post.author or '@' ~ user ~ '@' ~ host }}</a>
     {% else %}
       {{ post.author }}
     {% endif %}

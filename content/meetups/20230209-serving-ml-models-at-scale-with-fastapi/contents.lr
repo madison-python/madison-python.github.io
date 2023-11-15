@@ -6,8 +6,6 @@ future: no
 ---
 pub_date: 2023-02-09
 ---
-twitter_handle: dumbFrees
----
 body:
 
 ![](/static/images/2023-02-09-serving-ml-models-at-scale-with-fastapi.png)
