@@ -4,7 +4,7 @@ author: Shashank Bangalore
 ---
 body:
 
-![](/static/images/2023-12-14-calculating-invariants-of-elliptic-curves-social-card.png)
+![](/static/images/2023-12-14-calculating-invariants-of-elliptic-curves-social-card-2.png)
 
 This talk will explore how to utilize open source Computer Algebra Systems such as SageMath and Macaulay2, which provide a convenient environment for doing complex computations and expose a Python interface to the user. Various interesting mathematical invariants will be studied, including the discriminant of a number field and p-torsion of elliptic curves.
 
