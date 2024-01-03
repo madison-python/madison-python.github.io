@@ -28,10 +28,12 @@
                 %}><a href="{{ '/'|url }}">About</a></li>
               {% for href, title in [
                 ['/meetups', 'Events'],
+                ['/sponsorship', 'Sponsorship'],
               ] %}
                 <li{% if this.is_child_of(href) %} class="active"{% endif
                   %}><a href="{{ href|url }}">{{ title }}</a></li>
               {% endfor %}
+              <li><a target="_blank" href="https://slack.madpy.com/">Slack</a></li>
               <li><a target="_blank" rel="me" href="https://fosstodon.org/@madpy">Mastodon</a>
               <li><a target="_blank" href="https://github.com/madison-python">GitHub</a>
               <li><a target="_blank" href="https://www.meetup.com/MadPython/">Meetup.com</a>
