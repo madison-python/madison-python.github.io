@@ -1,0 +1,15 @@
+title: Mastering Pythonic Data Validation and Transformation with Pydantic
+---
+author: Sydney Runkle
+---
+body:
+
+![](/static/images/2024-05-09-Mastering-Pythonic-Data-Validation-and-Transformation-with-Pydantic-social-card-2.png)
+
+In this talk, attendees will have the opportunity to learn about Pydantic, Python's leading data validation library. Powered by type hints, Pydantic rapidly validates, with support for easy-to-use custom validators and serializers. Pydantic also offers JSON schema generation, which allows for easy integration with tools across platforms. In this talk, attendees will learn about basic usage of Pydantic, and how the tool can be applied to a wide variety of applications, from LLM response validation to API request/response structural support. We'll also touch on some little-known performance tips and recently released features.
+
+Sydney Runkle is a Senior at UW-Madison studying computer science. After graduating in May, Sydney will be starting work full time at Pydantic, where she currently works part-time as an open-source focused software engineer. In her free time, she loves to train for triathlons, cook, read, and spend time outside!
+---
+future: yes
+---
+pub_date: 2024-05-09
