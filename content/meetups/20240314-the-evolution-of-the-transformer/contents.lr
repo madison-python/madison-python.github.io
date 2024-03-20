@@ -2,7 +2,11 @@ title: The Evolution of the Transformer
 ---
 body:
 
-![](/static/images/2024-03-14-evolution-of-the-transformer-social-card.png)
+![](/static/images/2024-03-14-evolution-of-the-transformer-1.jpg)
+![](/static/images/2024-03-14-evolution-of-the-transformer-2.jpg)
+
+Slides from Ed's talk:
+ * [Downloadable .pdf Format](/static/slides/2024-03-14-Evolution-of-the-Transformer-slides.pdf)
 
 Dive into the backstory of the most influential model in AI's history—the Transformer. This talk traces the lineage of ideas and models that influenced its design, showcasing how past challenges and solutions in machine learning, computer vision, and NLP contributed to the Transformer's groundbreaking approach. Ideal for software engineers and technology enthusiasts looking to understand the build-up to the current AI renaissance.
 
@@ -14,4 +18,4 @@ fediverse_handle: @edrogers@fosstodon.org
 ---
 pub_date: 2024-03-14
 ---
-future: yes
+future: no
