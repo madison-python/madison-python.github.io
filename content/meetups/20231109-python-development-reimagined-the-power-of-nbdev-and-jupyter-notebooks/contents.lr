@@ -18,7 +18,7 @@ pub_datetime: 2023-11-09 18:30:00 America/Chicago
 ---
 meetup_url: https://www.meetup.com/madison-python/events/296600229/
 ---
-image: /static/images/2023-11-09-python-development-reimagined-1.png
+image: https://www.madpy.com/static/images/2023-11-09-python-development-reimagined-1.png
 ---
 image_width: 4032
 ---

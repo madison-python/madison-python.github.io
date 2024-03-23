@@ -19,7 +19,7 @@ future: no
 ---
 meetup_url: https://www.meetup.com/madison-python/events/289154093/
 ---
-image: /static/images/2022-11-10-clean-code-and-test-driven-development-a-primer.jpg
+image: https://www.madpy.com/static/images/2022-11-10-clean-code-and-test-driven-development-a-primer.jpg
 ---
 image_width: 4032
 ---

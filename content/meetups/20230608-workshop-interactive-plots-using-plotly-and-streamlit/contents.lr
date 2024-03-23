@@ -18,7 +18,7 @@ pub_datetime: 2023-06-08 18:30:00 America/Chicago
 ---
 meetup_url: https://www.meetup.com/madison-python/events/293265891/
 ---
-image: /static/images/2023-06-08-interactive-plots-1.jpg
+image: https://www.madpy.com/static/images/2023-06-08-interactive-plots-1.jpg
 ---
 image_width: 3680
 ---

@@ -19,7 +19,7 @@ future: no
 ---
 meetup_url: https://www.meetup.com/madison-python/events/289155970/
 ---
-image: /static/images/2022-12-08-pytest-its-whats-for-testing.jpg
+image: https://www.madpy.com/static/images/2022-12-08-pytest-its-whats-for-testing.jpg
 ---
 image_width: 4032
 ---

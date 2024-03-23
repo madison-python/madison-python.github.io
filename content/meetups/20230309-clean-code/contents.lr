@@ -18,7 +18,7 @@ pub_datetime: 2023-03-09 18:30:00 America/Chicago
 ---
 meetup_url: https://www.meetup.com/madison-python/events/291305061/
 ---
-image: /static/images/2023-03-09-code-cleanup-speaker.png
+image: https://www.madpy.com/static/images/2023-03-09-code-cleanup-speaker.png
 ---
 image_width: 2763
 ---

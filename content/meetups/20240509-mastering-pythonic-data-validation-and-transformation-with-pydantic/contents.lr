@@ -16,7 +16,7 @@ pub_datetime: 2024-05-09 18:30:00 America/Chicago
 ---
 meetup_url: https://www.meetup.com/madison-python/events/299491506/
 ---
-image: /static/images/2024-05-09-Mastering-Pythonic-Data-Validation-and-Transformation-with-Pydantic-social-card-2.png
+image: https://www.madpy.com/static/images/2024-05-09-Mastering-Pythonic-Data-Validation-and-Transformation-with-Pydantic-social-card-2.png
 ---
 image_width: 1792
 ---

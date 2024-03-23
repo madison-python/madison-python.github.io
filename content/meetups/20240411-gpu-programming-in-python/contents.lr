@@ -16,7 +16,7 @@ pub_datetime: 2024-04-11 18:30:00 America/Chicago
 ---
 meetup_url: https://www.meetup.com/madison-python/events/299615775/
 ---
-image: /static/images/2024-04-11-gpu-programming-in-python-social-card.png
+image: https://www.madpy.com/static/images/2024-04-11-gpu-programming-in-python-social-card.png
 ---
 image_width: 1024
 ---

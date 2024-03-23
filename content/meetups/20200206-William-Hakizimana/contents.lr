@@ -16,7 +16,7 @@ Willy will give us a deep dive into Django 3.0, a popular web framework for Pyth
 ---
 meetup_url: https://www.meetup.com/madison-python/events/268158449/
 ---
-image: /static/images/2020-02-06-A-Deep-Dive-into-Django-3.0.jpeg
+image: https://www.madpy.com/static/images/2020-02-06-A-Deep-Dive-into-Django-3.0.jpeg
 ---
 image_width: 2048
 ---

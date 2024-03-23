@@ -25,7 +25,7 @@ future: no
 ---
 meetup_url: https://www.meetup.com/madison-python/events/297609177/
 ---
-image: /static/images/2024-01-11-python-at-the-speed-of-c-1.jpg
+image: https://www.madpy.com/static/images/2024-01-11-python-at-the-speed-of-c-1.jpg
 ---
 image_width: 1608
 ---

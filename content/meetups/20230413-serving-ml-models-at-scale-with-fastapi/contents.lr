@@ -16,7 +16,7 @@ pub_datetime: 2023-04-13 18:30:00 America/Chicago
 ---
 meetup_url: https://www.meetup.com/madison-python/events/291817961/
 ---
-image: /static/images/2023-04-13-serving-ml-models-at-scale-with-fastapi-speaker.png
+image: https://www.madpy.com/static/images/2023-04-13-serving-ml-models-at-scale-with-fastapi-speaker.png
 ---
 image_width: 4032
 ---
