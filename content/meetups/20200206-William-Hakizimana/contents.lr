@@ -2,12 +2,24 @@ title: A Deep Dive into Django 3.0
 ---
 author: William Hakizimana
 ---
-pub_date: 2020-02-06
+pub_datetime: 2020-02-06 18:00:00 America/Chicago
+---
+location: Madison Public Library, 201 W Mifflin St, Room 301
 ---
 future: False
 ---
-
 body:
 
-Willy will give us a deep dive into Django 3.0, a popular web framework for
-Pythonistas, with new featured support for async functions.
+![](/static/images/2020-02-06-A-Deep-Dive-into-Django-3.0.jpeg)
+
+Willy will give us a deep dive into Django 3.0, a popular web framework for Pythonistas, with new featured support for async functions.
+---
+meetup_url: https://www.meetup.com/madison-python/events/268158449/
+---
+image: /static/images/2020-02-06-A-Deep-Dive-into-Django-3.0.jpeg
+---
+image_width: 2048
+---
+image_height: 1152
+---
+ogdescription: Willy will give us a deep dive into Django 3.0, a popular web framework for Pythonistas, with new featured support for async functions.

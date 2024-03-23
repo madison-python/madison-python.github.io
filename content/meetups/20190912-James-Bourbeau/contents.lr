@@ -2,7 +2,11 @@ title: Accelerating Numerical Python with Numba
 ---
 author: James Bourbeau
 ---
-pub_date: 2019-09-12
+pub_datetime: 2019-09-12 18:00:00 America/Chicago
+---
+location: Adorable IO, 123 E Main St 2nd floor
+---
+location_url: https://maps.app.goo.gl/ogDxe1VcMLdVMT3i6
 ---
 future: False
 ---
@@ -14,3 +18,7 @@ This talk will discuss the ins and outs of Numba, a library for accelerating Pyt
 Materials from this talk can be found on [GitHub](https://github.com/jrbourbeau/madpy-numba) and a live version of the notebook presented is available [here](https://mybinder.org/v2/gh/jrbourbeau/madpy-numba/master?urlpath=lab/tree/numerical-computing-with-numba.ipynb).
 
 [James Bourbeau](https://github.com/jrbourbeau) is a Software Engineer at Quansight and holds a PhD in Physics from the University of Wisconsin-Madison. He is primarily focused on developing tools in the Python data science ecosystem and is passionate about helping foster sustainable communities surrounding open source projects.
+---
+meetup_url: https://www.meetup.com/madison-python/events/264066240/
+---
+ogdescription: This talk will discuss the ins and outs of Numba, a library for accelerating Python and NumPy code. Numba allows Python users to achieve performance approaching those of lower-level languages (like C) by lightly annotating their existing Python functions. We'll cover how/when to use Numba and discuss the basics of how Numba's internals work.

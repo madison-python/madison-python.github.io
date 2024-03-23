@@ -16,6 +16,16 @@ author: Ed Rogers
 ---
 fediverse_handle: @edrogers@fosstodon.org
 ---
-pub_date: 2024-03-14
+pub_datetime: 2024-03-14 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/299033794/
 ---
 future: no
+---
+image: /static/images/2024-03-14-evolution-of-the-transformer-1.jpg
+---
+image_width: 4000
+---
+image_height: 3000
+---
+ogdescription: Dive into the backstory of the most influential model in AI's history—the Transformer. This talk traces the lineage of ideas and models that influenced its design, showcasing how past challenges and solutions in machine learning, computer vision, and NLP contributed to the Transformer's groundbreaking approach. Ideal for software engineers and technology enthusiasts looking to understand the build-up to the current AI renaissance.

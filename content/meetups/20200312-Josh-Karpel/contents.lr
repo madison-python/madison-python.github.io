@@ -2,12 +2,27 @@ title: pytest: It's What's For Testing [postponed -- obviously]
 ---
 author: Josh Karpel
 ---
-pub_date: 2020-03-12
+pub_datetime: 2020-03-12 18:00:00 America/Chicago
+---
+location: Madison Public Library, 201 W Mifflin St, Room 301
 ---
 future: no
 ---
 body:
 
+![](/static/images/2020-03-12-PyTest-Its-Whats-For-Testing.jpeg)
+
 pytest is the premier Python testing framework. It scales smoothly from small imperative tests all the way to huge test suites powered by metaprogramming, while maintaining a clean, DRY style. In this talk, we’ll do a whirlwind, example-heavy tour of pytest’s “killer features”: assertion rewriting, fixtures, parameterization, hooks, and plugins.
 
 [Josh Karpel](https://www.jtk.dev/) is a software developer at the Center for High Throughput Computing. He works on Python tooling for the HTCondor high-throughput computing platform and high-throughput machine learning and image processing techniques.
+
+---
+meetup_url: https://www.meetup.com/madison-python/events/268953216/
+---
+image: /static/images/2020-03-12-PyTest-Its-Whats-For-Testing.jpeg
+---
+image_width: 1221
+---
+image_height: 686
+---
+ogdescription: pytest is the premier Python testing framework. It scales smoothly from small imperative tests all the way to huge test suites powered by metaprogramming, while maintaining a clean, DRY style. In this talk, we’ll do a whirlwind, example-heavy tour of pytest’s “killer features”: assertion rewriting, fixtures, parameterization, hooks, and plugins.

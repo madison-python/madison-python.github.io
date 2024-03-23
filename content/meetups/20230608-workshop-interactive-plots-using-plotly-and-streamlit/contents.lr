@@ -14,4 +14,14 @@ The presenters for this workshop will be Sarah Stevens and Chris Endemann. Sarah
 ---
 future: no
 ---
-pub_date: 2023-06-08
+pub_datetime: 2023-06-08 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/293265891/
+---
+image: /static/images/2023-06-08-interactive-plots-1.jpg
+---
+image_width: 3680
+---
+image_height: 2760
+---
+ogdescription: Come participate in a visualization workshop facilitated by our colleagues from the UW Data Science Hub. You are encouraged to bring your laptop to engage in a hands-on session to create and share interactive dashboards using Streamlit and Plotly. Our skilled instructors will provide guidance as we work together to build on a cloud platform and continuously update our demo app. During the one-hour walkthrough, we will assess real data and demonstrate how to refine existing examples.

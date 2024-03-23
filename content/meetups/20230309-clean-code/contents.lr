@@ -14,4 +14,14 @@ Do you have some bad code to contribute? We are looking for a few more relativel
 ---
 future: no
 ---
-pub_date: 2023-03-09
+pub_datetime: 2023-03-09 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/291305061/
+---
+image: /static/images/2023-03-09-code-cleanup-speaker.png
+---
+image_width: 2763
+---
+image_height: 2072
+---
+ogdescription: We will start this meeting with a short review of good coding principles, then dig into some bad code and clean it up. The primary goal is readability. This interactive session is aimed at novice to intermediate level developers. Attendees will be asked what needs cleaning, and how you would improve it. Later, experts may suggest solutions. We'll look at a variety of examples.

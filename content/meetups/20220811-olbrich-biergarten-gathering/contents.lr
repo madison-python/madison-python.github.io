@@ -2,6 +2,10 @@ title: Olbrich Biergarten Gathering
 ---
 author: MadPy
 ---
+location: Olbrich Biergarten, 3527 Atwood Ave
+---
+location_url: https://maps.app.goo.gl/icYAvi1JNFuXDD8Y6
+---
 body:
 
 Come join the Madison Python community for an evening at the Olbrich Biergarten &mdash; 3527 Atwood Ave. We'd like to get back in touch, discuss what we've all been up to, and plan future gatherings. We won't have a speaker or slides. Just friendly conversation. We welcome newcomers and experienced pythonistas alike.
@@ -10,6 +14,10 @@ Olbrich Biergarten has outdoor picnic tables, beverages (both with & without alc
 ---
 future: no
 ---
-pub_date: 2022-08-11
+pub_datetime: 2022-08-11 19:00:00 America/Chicago
 ---
 fediverse_handle: @madpy@fosstodon.org
+---
+meetup_url: https://www.meetup.com/madison-python/events/287559897/
+---
+ogdescription: Come join the Madison Python community for an evening at the Olbrich Biergarten &mdash; 3527 Atwood Ave. We'd like to get back in touch, discuss what we've all been up to, and plan future gatherings. We won't have a speaker or slides. Just friendly conversation. We welcome newcomers and experienced pythonistas alike.

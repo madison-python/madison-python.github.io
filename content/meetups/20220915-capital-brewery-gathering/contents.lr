@@ -10,6 +10,14 @@ Capital Brewery has an outdoor biergarten with picnic tables, beverages (both wi
 ---
 future: no
 ---
-pub_date: 2022-09-15
+pub_datetime: 2022-09-15 18:00:00 America/Chicago
+---
+location: Capital Brewery, 7734 Terrace Ave
+---
+location_url: https://maps.app.goo.gl/kGc6Rb41t86x5B366
 ---
 fediverse_handle: @madpy@fosstodon.org
+---
+meetup_url: https://www.meetup.com/madison-python/events/287912261/
+---
+ogdescription: Come join the Madison Python community for an evening at Capital Brewery &mdash; 7734 Terrace Ave. We'd like to get back in touch, discuss what we've all been up to, and plan future gatherings. We won't have a speaker or slides. Just friendly conversation. We welcome newcomers and experienced pythonistas alike.

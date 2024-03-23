@@ -14,4 +14,14 @@ We'll be meeting at the downtown Madison library, 201 W Mifflin St, room 302, on
 ---
 future: no
 ---
-pub_date: 2023-11-09
+pub_datetime: 2023-11-09 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/296600229/
+---
+image: /static/images/2023-11-09-python-development-reimagined-1.png
+---
+image_width: 4032
+---
+image_height: 3024
+---
+ogdescription: Join us in this informative session as we explore a fresh approach to Python development with [nbdev](https://nbdev.fast.ai/) in the Jupyter Notebook environment. Regardless of your Python experience level, this talk will introduce you to the potential benefits of using nbdev, a powerful Python library. We'll showcase how this combination can streamline your development process, including library creation and documentation generation, making coding more efficient and interactive. Whether you're just starting or a seasoned developer, you'll find practical insights for improving your Python projects. Join us in November and be part of the Python development transformation.

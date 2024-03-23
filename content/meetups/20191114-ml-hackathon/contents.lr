@@ -2,7 +2,11 @@ title: Machine Learning Hackathon
 ---
 author: MadPy
 ---
-pub_date: 2019-11-14
+pub_datetime: 2019-11-14 18:00:00 America/Chicago
+---
+location: Industrious, 25 W Main St 5th floor
+---
+location_url: https://maps.app.goo.gl/1fsoSxtPhgVDz3y49
 ---
 future: False
 ---
@@ -12,3 +16,7 @@ body:
 This month is all about machine learning! We will divide up into teams, and each team will work on a different machine learning problem. No experience necessary! Next month, the teams will give lightning talks on what they came up with.
 
 Don't forget to bring your laptops!
+---
+meetup_url: https://www.meetup.com/madison-python/events/265880536/
+---
+ogdescription: This month is all about machine learning! We will divide up into teams, and each team will work on a different machine learning problem. No experience necessary! Next month, the teams will give lightning talks on what they came up with.

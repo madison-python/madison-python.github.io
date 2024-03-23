@@ -12,4 +12,14 @@ Adam Frees is a Principal Data Scientist at Majesco, a leader in the Insurtech s
 ---
 future: no
 ---
-pub_date: 2023-04-13
+pub_datetime: 2023-04-13 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/291817961/
+---
+image: /static/images/2023-04-13-serving-ml-models-at-scale-with-fastapi-speaker.png
+---
+image_width: 4032
+---
+image_height: 3024
+---
+ogdescription: With the release of models such as BERT, ChatGPT and DALL-E-2, Natural Language Processing (NLP) models have captured the world's imagination. While many NLP models are open-sourced, integrating these models into an end-product remains challenging in many cases. In this talk, Adam will show how the popular Python web framework FastAPI can be used to make cutting-edge NLP models available to end-users in a fast and standards-based way. While the use-case in this talk revolves around machine learning, the benefits of FastAPI extend into many other fields; no prior knowledge of ML required!

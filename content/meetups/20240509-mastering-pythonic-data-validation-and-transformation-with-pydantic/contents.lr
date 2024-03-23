@@ -12,4 +12,14 @@ Sydney Runkle is a Senior at UW-Madison studying computer science. After graduat
 ---
 future: yes
 ---
-pub_date: 2024-05-09
+pub_datetime: 2024-05-09 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/299491506/
+---
+image: /static/images/2024-05-09-Mastering-Pythonic-Data-Validation-and-Transformation-with-Pydantic-social-card-2.png
+---
+image_width: 1792
+---
+image_height: 1024
+---
+ogdescription: In this talk, attendees will have the opportunity to learn about Pydantic, Python's leading data validation library. Powered by type hints, Pydantic rapidly validates, with support for easy-to-use custom validators and serializers. Pydantic also offers JSON schema generation, which allows for easy integration with tools across platforms. In this talk, attendees will learn about basic usage of Pydantic, and how the tool can be applied to a wide variety of applications, from LLM response validation to API request/response structural support. We'll also touch on some little-known performance tips and recently released features.

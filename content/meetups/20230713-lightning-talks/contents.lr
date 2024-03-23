@@ -13,10 +13,20 @@ MadPy presented lightning talks!
 * [Structural Pattern Matching](https://peps.python.org/pep-0636/), presented by Josh Karpel -- [Link to Josh's code](https://github.com/JoshKarpel/madpy-structural-pattern-matching)
 
 ---
-pub_date: 2023-07-13
+pub_datetime: 2023-07-13 18:30:00 America/Chicago
 ---
 twitter_handle: MadisonPython
 ---
 future: no
 ---
 fediverse_handle: @madpy@fosstodon.org
+---
+meetup_url: https://www.meetup.com/madison-python/events/293759531/
+---
+image: /static/images/2023-07-13-lightning-talks.png
+---
+image_width: 768
+---
+image_height: 768
+---
+ogdescription: MadPy presented lightning talks!

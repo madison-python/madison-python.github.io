@@ -1,5 +1,28 @@
 {% extends "layout.html" %}
 {% from "macros/blog.html" import render_blog_post %}
+{% block meta_image %}
+  {% if this.image is defined and this.image_width is defined and this.image_height is defined %}
+    <meta property="og:image" content="{{ this.image|url }}"/>
+    <meta property="og:image:width" content="{{ this.image_width }}"/>
+    <meta property="og:image:height" content="{{ this.image_height }}"/>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
+{% block meta_title %}
+  {% if this.title is defined %}
+    <meta property="og:title" content="{{ this.title }}, {{ this.pub_datetime.strftime('%a, %b %-d @ %-I:%M %p') }} | MadPy"/>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
+{% block meta_description %}
+  {% if this.ogdescription is defined %}
+    <meta property="og:description" content="{{ this.ogdescription }}"/>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
   {{ render_blog_post(this) }}

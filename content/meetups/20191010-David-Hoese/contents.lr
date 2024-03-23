@@ -2,7 +2,9 @@ title: Choosing the right data file format for numerical computing
 ---
 author: David Hoese
 ---
-pub_date: 2019-10-10
+pub_datetime: 2019-10-10 18:00:00 America/Chicago
+---
+location: Madison Public Library, 201 W Mifflin St, Room 301
 ---
 future: False
 ---
@@ -14,3 +16,7 @@ This talk will go over the pros and cons of various data file formats common in 
 Materials from this talk can be found on [GitHub](https://github.com/djhoese/data-file-formats) and a live version of the notebook presented is available [here](https://mybinder.org/v2/gh/djhoese/data-file-formats/master?urlpath=lab/tree/data_files.ipynb).
 
 David Hoese is a software developer at the Space Science and Engineering Center at the University of Wisconsin-Madison. He graduated with a Bachelor's degree in Computer Engineering from UW-Madison. David works on writing software tools to assist atmospheric scientists with a focus on analyzing satellite and ground-based instrument data.
+---
+meetup_url: https://www.meetup.com/madison-python/events/265128537/
+---
+ogdescription: This talk will go over the pros and cons of various data file formats common in scientific python workflows. We'll cover various concerns when storing data on-disk and how popular formats address these challenges. The file formats covered will include CSV, flat binary, HDF5, NetCDF4, Parquet/Arrow, and Zarr.

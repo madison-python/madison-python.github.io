@@ -12,4 +12,16 @@ Shashank Bangalore is a undergraduate mathematics student at UW-Madison with int
 ---
 future: no
 ---
-pub_date: 2023-12-14
+pub_datetime: 2023-12-14 18:30:00 America/Chicago
+---
+location: Madison Public Library, 201 W Mifflin St, Room 301
+---
+meetup_url: https://www.meetup.com/madison-python/events/297098767/
+---
+image: /static/images/2023-12-14-calculating-invariants-of-elliptic-curves.png
+---
+image_width: 4032
+---
+image_height: 3024
+---
+ogdescription: This talk will explore how to utilize open source Computer Algebra Systems such as SageMath and Macaulay2, which provide a convenient environment for doing complex computations and expose a Python interface to the user. Various interesting mathematical invariants will be studied, including the discriminant of a number field and p-torsion of elliptic curves.

@@ -24,6 +24,20 @@ Thursday, February 8, 2024 at 6:30pm CST
 ---
 future: no
 ---
-pub_date: 2024-02-08
+pub_datetime: 2024-02-08 18:30:00 America/Chicago
+---
+location: I/O Arcade Bar, 924 Williamson St
+---
+location_url: https://maps.app.goo.gl/tC6yrhQejKAAdnuc7
 ---
 fediverse_handle: @madpy@fosstodon.org
+---
+meetup_url: https://www.meetup.com/madison-python/events/298119328/
+---
+image: /static/images/2024-02-08-i-o-arcade-bar-on-willy-1.png
+---
+image_width: 3024
+---
+image_height: 4032
+---
+ogdescription: The Madison Python meetup group is hosting a social gathering at I/O Arcade Bar on Willy St. We won't have a speaker or slides. Just friendly conversation. Whether you're an experienced software developer, someone interested to learn about the field, or just looking to meet new people, please join us!

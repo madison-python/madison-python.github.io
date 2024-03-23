@@ -10,8 +10,19 @@ pytest is the premier Python testing framework. It scales smoothly from small im
 
 Josh Karpel is a Senior Machine Learning Engineer at Workday where he designs and develops systems for connecting ML predictions to the outside world. Josh earned his PhD in physics at UW-Madison and was a Postdoctoral Fellow at the Morgridge Institute facilitating research computing at enormous scale through the Center for High Throughput Computing.
 ---
-pub_date: 2022-12-08
+pub_datetime: 2022-12-08 18:30:00 America/Chicago
 ---
 fediverse_handle: @joshkarpel@fosstodon.org
 ---
 future: no
+
+---
+meetup_url: https://www.meetup.com/madison-python/events/289155970/
+---
+image: /static/images/2022-12-08-pytest-its-whats-for-testing.jpg
+---
+image_width: 4032
+---
+image_height: 3024
+---
+ogdescription: pytest is the premier Python testing framework. It scales smoothly from small imperative tests all the way to huge test suites powered by metaprogramming, while maintaining a clean, DRY style. In this talk, we'll do a whirlwind, example-heavy tour of pytest's "killer features": assertion rewriting, fixtures, parameterization, hooks, and plugins.

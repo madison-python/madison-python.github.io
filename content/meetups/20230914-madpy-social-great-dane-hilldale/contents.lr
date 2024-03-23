@@ -17,6 +17,20 @@ Great Dane Hilldale has a full menu of has a full menu of pub fare, including be
 ---
 future: no
 ---
-pub_date: 2023-09-14
+pub_datetime: 2023-09-14 18:30:00 America/Chicago
+---
+location: Great Dane Pub at Hilldale, 357 Price Pl
+---
+location_url: https://maps.app.goo.gl/3raNnCQrHaLsgCqF8
 ---
 fediverse_handle: @madpy@fosstodon.org
+---
+meetup_url: https://www.meetup.com/madison-python/events/295313780/
+---
+image: /static/images/2023-09-14-madpy-social-great-dane-hilldale.png
+---
+image_width: 4032
+---
+image_height: 3024
+---
+ogdescription: The Madison Python meetup group is hosting a social gathering at Great Dane Pub at Hilldale. We won't have a speaker or slides. Just friendly conversation. Whether you're an experienced software developer, someone interested to learn about the field, or just looking to meet new people, please join us!

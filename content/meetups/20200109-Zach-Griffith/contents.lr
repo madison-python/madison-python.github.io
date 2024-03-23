@@ -2,7 +2,9 @@ title: Interactive Visualizations with Python
 ---
 author: Zach Griffith
 ---
-pub_date: 2020-01-09
+pub_datetime: 2020-01-09 18:00:00 America/Chicago
+---
+location: Madison Public Library, 201 W Mifflin St, Room 301
 ---
 future: False
 ---
@@ -12,3 +14,7 @@ body:
 Introducing interactivity to visualizations could enable you to more concisely and clearly communicate results. Also, it’s fun. Come learn how you can do so with Python, whether it be for a one-off plot, in a Jupyter Notebook, or for stand-alone dashboards and applications. We’ll mainly be focusing on the Bokeh library and other libraries built off of it (e.g. Holoviews).
 
 Zach Griffith is a software developer at the Space Science and Engineering Center at the University of Wisconsin-Madison. He graduated with a Ph.D. in Physics from UW-Madison in 2019. Zach creates calibration monitoring tools, handles the production of science products, and contributes to building out the software infrastructure for the Atmosphere Science Investigator-led Processing System (SIPS).
+---
+meetup_url: https://www.meetup.com/madison-python/events/267516385/
+---
+ogdescription: Introducing interactivity to visualizations could enable you to more concisely and clearly communicate results. Also, it’s fun. Come learn how you can do so with Python, whether it be for a one-off plot, in a Jupyter Notebook, or for stand-alone dashboards and applications. We’ll mainly be focusing on the Bokeh library and other libraries built off of it (e.g. Holoviews).

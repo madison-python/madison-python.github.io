@@ -12,4 +12,14 @@ Eric Staats is a mostly self-taught software developer working at Verve Industri
 ---
 future: no
 ---
-pub_date: 2023-05-11
+pub_datetime: 2023-05-11 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/292448940/
+---
+image: /static/images/2023-05-11-for-your-eyes-only-speaker.jpg
+---
+image_width: 2544
+---
+image_height: 1431
+---
+ogdescription: In order to pass a secret message to your friend (or a web server) or securely distribute software, you need cryptography! This talk will cover the basics of symmetric and asymmetric encryption, signing vs. encrypting, and the libraries that make it work in Python.

@@ -13,6 +13,16 @@ Next generation data infrastructure with streaming capabilities are enabling ins
 
 Pizza will be provided by our sponsor this month, [Memphis.dev](https://memphis.dev/). Memphis.dev is developing a next-generation alternative to traditional message brokers. A simple, robust, and durable cloud-native message broker wrapped with an entire ecosystem that enables cost-effective, fast, and reliable development of modern queue-based use cases.
 ---
-pub_date: 2023-08-10
+pub_datetime: 2023-08-10 18:30:00 America/Chicago
 ---
 future: no
+---
+meetup_url: https://www.meetup.com/madison-python/events/293763316/
+---
+image: /static/images/2023-08-10-dashboards-with-live-updates-1.jpg
+---
+image_width: 4020
+---
+image_height: 2261
+---
+ogdescription: Next generation data infrastructure with streaming capabilities are enabling insights to be delivered in real time. In this talk, we’ll look at an example of a sales dashboard with live updates. The dashboard will monitor a message broker for sales events and update graphs and metrics as new events arrive. Through this example, we’ll introduce the basics of working with a streaming data platform, compare the streaming approach with more traditional daily batch jobs, and discuss patterns for calculating statistics from streaming data. The talk will include discussion of the implementation and review of Python code examples.
