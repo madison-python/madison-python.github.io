@@ -1,0 +1,27 @@
+title: Concurrency and Parallelism
+---
+author: Josh Karpel
+---
+body:
+
+![](/static/images/2024-06-13-Concurrency-and-Parallelism-social-card.png)
+
+Interested in concurrency and parallelism in Python? For our June meeting, MadPy will have Josh Karpel guide us through the fundamental concepts and decision-making processes critical for making the most of these techniques. Learn the 'why' behind using concurrency and parallelism in your projects!
+
+Josh Karpel is a Senior Machine Learning Engineer at Workday where he designs and develops systems for connecting ML predictions to the outside world. Josh earned his PhD in physics at UW-Madison and was a Postdoctoral Fellow at the Morgridge Institute facilitating research computing at enormous scale through the Center for High Throughput Computing.
+---
+fediverse_handle: @joshkarpel@fosstodon.org
+---
+future: yes
+---
+image: https://www.madpy.com/static/images/2024-06-13-Concurrency-and-Parallelism-social-card.png
+---
+image_height: 724
+---
+image_width: 1266
+---
+ogdescription: Interested in concurrency and parallelism in Python? For our June meeting, MadPy will have Josh Karpel guide us through the fundamental concepts and decision-making processes critical for making the most of these techniques. Learn the 'why' behind using concurrency and parallelism in your projects!
+---
+pub_datetime: 2024-06-13 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/300924129/
