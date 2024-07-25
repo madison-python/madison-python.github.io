@@ -4,6 +4,8 @@ author: Jennifer Knack
 ---
 body:
 
+![](/static/images/2024-08-08-reticulate-when-R-and-Python-play-nice-1200x630.png)
+
 This August, we're partnering again with [Madison's Women-in-Tech (WiT)](https://madisonwomen.tech) meetup group. All genders are welcome at this event. Feel free to arrive between 6:00pm and 6:30pm to network with other attendees. The presentation will start at 6:30pm.
 
 Developers and data scientists often work together towards common goals, but sometimes they use different tools to achieve those goals.  It is often said that Python is the second-best language at everything; however when it comes to data science, R reigns supreme.  Fortunately, there's a package for that!  Reticulate is an R package that provides a comprehensive set of tools for interoperability between Python and R.  Come by the MadPy August meeting to learn how to have the best of both worlds!
