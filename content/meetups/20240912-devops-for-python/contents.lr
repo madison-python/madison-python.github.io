@@ -1,0 +1,27 @@
+title: DevOps for Python
+---
+author: David Webber
+---
+body:
+
+![](/static/images/2024-09-12-DevOps-for-Python-1200x630.png)
+
+Software isn’t just developed; it is operated.
+
+DevOps is a philosophy combining development and operations in a tight loop to shorten the software development lifecycle.  This September, David will introduce some tools and design practices to make python software deployments more manageable, faster, and easier.  Starting with a Python script that performs a useful function, we’ll webify it, containerize it, put it in the cloud, and monitor its health.
+
+David Webber, PhD, is co-founder and chief scientist of Scanalytics, Inc.  Founded in 2013, Scanalytics makes smart pressure-sensitive flooring underlayment to understand real-time occupancy and movement within physical spaces, with applications including building energy efficiency and security.  David also served as a PI within the ARPA-E SENSOR program.  Prior to Scanalytics, David studied muon and neutrino particle physics.  In his spare time, David enjoys playing cooperative tabletop, RPG, and online games.
+---
+future: yes
+---
+image: https://madpy.com/static/images/2024-09-12-DevOps-for-Python-1200x630.png
+---
+image_height: 630
+---
+image_width: 1200
+---
+ogdescription: Join MadPy for our September meetup, where we'll hear about how DevOps is best practiced with Python. This event, hosted at Madison's downtown library, is free and open to the public. Newcomers welcome! We'll have pizza and beverages provided by our sponsor, Verve Industrial
+---
+pub_datetime: 2024-09-12 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/302758261

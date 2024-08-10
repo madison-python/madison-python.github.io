@@ -4,7 +4,7 @@ author: Jennifer Knack
 ---
 body:
 
-![](/static/images/2024-08-08-reticulate-when-R-and-Python-play-nice-with-banner-1200x630.png)
+![](/static/images/2024-08-08-reticulate-when-R-and-Python-play-nice-1-1200x630.jpg)
 
 This August, we're partnering again with [Madison's Women-in-Tech (WiT)](https://madisonwomen.tech) meetup group. All genders are welcome at this event. Feel free to arrive between 6:00pm and 6:30pm to network with other attendees. The presentation will start at 6:30pm.
 
@@ -12,9 +12,9 @@ Developers and data scientists often work together towards common goals, but som
 
 Jennifer Knack is a microbiologist, molecular biologist, and data scientist with International Flavors and Fragrances (IFF), where she works in probiotics R&D.  Jennifer learned R in graduate school while pursuing a PhD in microbial ecology, and she began learning Python after joining IFF.  She's a cat mom to two fuzzy boys, and in her spare time she enjoys crafting, playing outside, and filling her brain with as much knowledge as possible.
 ---
-future: yes
+future: no
 ---
-image: https://madpy.com/static/images/2024-08-08-reticulate-when-R-and-Python-play-nice-with-banner-1200x630.png
+image: https://madpy.com/static/images/2024-08-08-reticulate-when-R-and-Python-play-nice-1-1200x630.jpg
 ---
 image_height: 630
 ---
