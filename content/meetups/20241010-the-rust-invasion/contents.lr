@@ -4,21 +4,21 @@ author: Terence Liu
 ---
 body:
 
-![](/static/images/2024-10-10-The-Rust-Invasion-Social-Card.png)
+![](/static/images/2024-10-10-The-Rust-Invasion-1-4029x2117.jpg)
 
 Get ready to dive into the exciting world where Rust meets Python! We'll focus on two quality-of-life tools: Ruff, a lightning-fast linter and formatter, and uv, an innovative package manager that's set to revolutionize Python dependency management. These Rust-powered tools are reshaping the Python development landscape. We'll examine their practical applications, from local development environments to deployment scenarios, including containerization strategies. Along the way, we'll uncover why Rust-based tools have become so valuable in the Python ecosystem, and showcase examples of direct language interoperability that significantly boost performance. By the end of the talk, I hope you'll gain some insight how these Rust-powered innovations are transforming Python development and what this means for the future of the ecosystem.
 
 [Terence Liu](https://terencezl.github.io/) is a domain expert in building and deploying machine learning models, vector search engines, and distributed computing/data systems. Being an academically trained computational physicist, he is passionate about performance computing, and the fundamental hardware/language/software breakthroughs that accelerate its progress. Terence works at Clearview AI, a software vendor for public safety technologies.
 ---
-future: yes
+future: no
 ---
-image: https://madpy.com/static/images/2024-10-10-The-Rust-Invasion-Social-Card_1200x630.png
+image: https://madpy.com/static/images/2024-10-10-The-Rust-Invasion-1-1200x630.jpg
 ---
 image_height: 630
 ---
 image_width: 1200
 ---
-ogdescription: Join MadPy for our October meetup, where we'll dive into the exciting world where Rust meets Python! This event, hosted at Madison's downtown library, is free and open to the public. Newcomers welcome! We'll have pizza and beverages provided by our sponsor, ApartmentIQ
+ogdescription: At our October meetup, we dove into the exciting world where Rust meets Python! This event, hosted at Madison's downtown library, was free and open to the public.
 ---
 pub_datetime: 2024-10-10 18:30:00 America/Chicago
 ---
