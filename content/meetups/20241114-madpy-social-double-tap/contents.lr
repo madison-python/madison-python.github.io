@@ -4,7 +4,7 @@ author: MadPy
 ---
 body:
 
-![](/static/images/2024-11-14-MadPy-Social-at-Double-Tap-Social-Card-1879x1068.png)
+![](/static/images/2024-11-14-MadPy-Social-at-Double-Tap-1-1200x630.jpg)
 
 The Madison Python meetup group is hosting a social gathering at the new Double Tap Beercade on State St. We won't have a speaker or slides. Just friendly conversation. Whether you're an experienced software developer, someone interested to learn about the field, or just looking to meet new people, please join us!
 
@@ -23,9 +23,9 @@ Thursday, November 14, 2024 at 6:30pm CST
 ---
 fediverse_handle: @madpy@fosstodon.org
 ---
-future: yes
+future: no
 ---
-image: https://madpy.com/static/images/2024-11-14-MadPy-Social-at-Double-Tap-Social-Card-1200x630.png
+image: https://madpy.com/static/images/2024-11-14-MadPy-Social-at-Double-Tap-1-1200x630.jpg
 ---
 image_height: 630
 ---
@@ -35,7 +35,7 @@ location: Double Tap Beercade
 ---
 location_url: https://maps.app.goo.gl/bq3on29WRK28Pb919
 ---
-ogdescription: The Madison Python meetup group is hosting a social gathering at Double Tap Beercade on State St. We won't have a speaker or slides. Just friendly conversation. Whether you're an experienced software developer, someone interested to learn about the field, or just looking to meet new people, please join us!
+ogdescription: The Madison Python meetup group hosted a social gathering at Double Tap Beercade on State St. No speaker or slides. Just friendly conversation, pizza, beverages, and video games.
 ---
 pub_datetime: 2024-11-14 18:30:00 America/Chicago
 ---
