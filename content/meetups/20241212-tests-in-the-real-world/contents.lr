@@ -4,15 +4,15 @@ author: Dennis Hume
 ---
 body:
 
-![](/static/images/2024-12-12-Tests-in-the-Real-World-Social-Card-1792x1024.png)
+![](/static/images/2024-12-12-Tests-in-the-Real-World-1-4000x2100.jpg)
 
 Learning how to write tests for production code is one of the most important skills you can develop. Unfortunately, many guides around testing in Python only cover very basic examples. (When is the last time you actually built a calculator app?) We will cover how to write effective tests for code that can be deployed at company scale and how to front load your efforts so you can write code confidently and never get tripped up by a poor test.
 
 Dennis Hume is a seasoned data engineer with over a decade of experience in the space mostly focusing on platform engineering and infrastructure. He has helped companies improve their data stacks, starting at Wolfram Alpha to his current role leading data engineering at Pinwheel.
 ---
-future: yes
+future: no
 ---
-image: https://madpy.com/static/images/2024-12-12-Tests-in-the-Real-World-Social-Card-1200x630.png
+image: https://madpy.com/static/images/2024-12-12-Tests-in-the-Real-World-1-1200x630.jpg
 ---
 image_height: 630
 ---
@@ -20,6 +20,6 @@ image_width: 1200
 ---
 pub_datetime: 2024-12-12 18:30:00 America/Chicago
 ---
-ogdescription: Learn how to write tests for production code with confidence! Join us for our December Meetup at the Downtown Madison Public Library
+ogdescription: In December, we learned how to write tests for production code with confidence! Find out about future MadPy get-togethers at MadPy.com
 ---
 meetup_url: https://www.meetup.com/madison-python/events/304642878/
