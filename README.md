@@ -1,23 +1,17 @@
 MadPy Website
 =============
 
-[![Build Status](https://travis-ci.org/madison-python/madison-python.github.io.svg?branch=source)](https://travis-ci.org/madison-python/madison-python.github.io)
+[![Build Status](https://github.com/madison-python/madison-python.github.io/actions/workflows/gh-pages.yml/badge.svg?branch=source)](https://github.com/madison-python/madison-python.github.io/actions)
 
 This repository contains source code for the MadPy website
 
 
 ## Setup
 
-The website is built using the static website generator [Lektor](https://github.com/lektor/lektor), which can be installed using `pip`:
+The website is built using the static website generator [Lektor](https://github.com/lektor/lektor), which can be installed using `uv`:
 
 ```bash
-pip install Lektor
-```
-
-or `conda`:
-
-```bash
-conda install -c conda-forge lektor
+uv tool install Lektor
 ```
 
 
