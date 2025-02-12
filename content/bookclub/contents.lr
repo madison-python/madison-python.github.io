@@ -6,29 +6,35 @@ body:
 
 <img src="/static/images/bookclub-logo.png" width=300px />
 
-## Introduction
+### Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor.
+MadPy has a book club! We are a group of folks who meet bi-weekly to talk through
+a book about programming or software development. This is a great way to learn
+about new things in the industry, fill in gaps in your knowledge, and talk with
+other developers.
 
-## Why Use Lorem Ipsum?
+### Format
 
-- It provides a natural flow of text.
-- Helps designers focus on layout.
-- Avoids distractions from actual content.
+We choose a book by voting in the #book-club Slack channel, and then we agree on
+a meeting format. Usually, this means breaking the book up into 6-7 chunks, and
+then we meet every other week to discuss each chunk.
 
-## A Closer Look
+We cover roughly 3 books per year, spending 3-4 months on each book.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus. Donec sollicitudin molestie malesuada.
+### What books do you read?
 
-> "Lorem ipsum is the best known dummy text in the industry."
+The book club has read books like **Designing Data Intensive Applications** and
+**Crafting Interpreters**, as well as exploring the new language **Mojo**.
 
-## Conclusion
+The books are sometimes directly related to Python, and sometimes about broader
+concepts in software development or different technologies.
 
-Using placeholder text allows you to visualize your layout before finalizing content. Lorem ipsum continues to be a valuable tool in design and development.
+We try to have a good mix of hands on programming books and more conceptual books.
 
-----
-*Written by John Doe*  
-Published on February 11, 2025
+### How can I get involved?
+
+Join the #book-club channel on the Slack! We also will post to #general when
+we're starting a new book.
 
 ---
 subtitle: Come Learn with MadPy
