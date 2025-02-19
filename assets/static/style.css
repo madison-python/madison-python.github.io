@@ -80,13 +80,17 @@ nav a:hover, nav a:focus{
    color: #50B990;
 }
 
-nav a::before{
+nav a::before {
    content: "";
    display: block;
    height: 0.75em;
    width: 4px;
-   background-color: #8aaad9;
+   background-color: transparent; /* Default to transparent */
    position: absolute;
    top: 0.25em;
    left: 0;
+}
+
+nav li.active a::before {
+   background-color: #8aaad9; /* Only active links get blue */
 }

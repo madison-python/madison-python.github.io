@@ -44,6 +44,7 @@
                 %}><a href="{{ '/'|url }}">About</a></li>
               {% for href, title in [
                 ['/meetups', 'Events'],
+                ['/bookclub', 'Book Club'],
                 ['/sponsorship', 'Sponsorship'],
               ] %}
                 <li{% if this.is_child_of(href) %} class="active"{% endif
