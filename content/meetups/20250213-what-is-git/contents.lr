@@ -4,7 +4,7 @@ author: Wesley Hershberger
 ---
 body:
 
-![](/static/images/2025-02-13-What-Is-Git-Social-Card-1792x1024.png)
+![](/static/images/2025-02-13-What-Is-Git-1-4000x3000.jpg)
 
 #### What is Git?
 ##### A Masterclass in Software Composition
@@ -13,15 +13,15 @@ Git hardly needs an introduction; in 2025 one would be hard-pressed to find a pr
 
 Wesley Hershberger is a Cloud Support Engineer at Canonical where he spends his days traversing the Git histories of Ubuntu Server, OpenStack, and Canonical's other projects. An avid Linux user since 2014, he enjoys using text-based tools and putting every last bit of data in Git. Outside of technology, he enjoys making music and cooking.
 ---
-future: yes
+future: no
 ---
-image: https://madpy.com/static/images/2025-02-13-What-Is-Git-Social-Card-1200x630.png
+image: https://madpy.com/static/images/2025-02-13-What-Is-Git-1-1200x630.jpg
 ---
 image_height: 630
 ---
 image_width: 1200
 ---
-ogdescription: Join MadPy for a deep-dive on Git. You may know Git is a revision control system. But did you know that it's also a content-addressable filesystem? And a directed acyclic graph? And don't forget the merge algorithm! Get ready for a masterclass in software composition from Wesley Hershberger as we discuss "What is Git?"
+ogdescription: MadPy took a deep-dive on Git. You may know Git is a revision control system. But did you know that it's also a content-addressable filesystem? And a directed acyclic graph? And don't forget the merge algorithm! Wesley Hershberger gave a masterclass in software composition as we discussed "What is Git?"
 ---
 pub_datetime: 2025-02-13 18:30:00 America/Chicago
 ---
