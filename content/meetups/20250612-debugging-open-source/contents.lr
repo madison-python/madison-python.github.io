@@ -1,0 +1,25 @@
+title: Debugging Open Source
+---
+author: Dave Hoese
+---
+body:
+
+![](/static/images/2025-06-12-Debugging-Open-Source-Social-Card-1413x953.png)
+
+Using open source libraries and tools can make software development easier, but one simple update can quickly derail your workflow. In this talk Dave Hoese will step through the process of fixing a bug in an open source Python tool. He'll start from the first downstream failure to a new patch release of the tool. Along the way we'll explore things to look out for, tricks to find problems faster, and discuss common open source project contribution guidelines.
+
+Dave is a software developer at the Space Science and Engineering Center at the University of Wisconsin-Madison. He graduated with a Bachelor's degree in Computer Engineering from UW-Madison. Dave works on writing software tools to assist atmospheric scientists with a focus on analyzing satellite and ground-based instrument data.
+---
+fediverse_handle: @djhoese@fosstodon.org
+---
+future: yes
+---
+image: https://madpy.com/static/images/2025-06-12-Debugging-Open-Source-Social-Card-1200x630.png
+---
+image_height: 630
+---
+image_width: 1200
+---
+ogdescription: Join MadPy as we learn how to fix bugs in open source Python projects. Dave Hoese will walk us through the process from discovery to patch release. This event is free and open to all
+---
+pub_datetime: 2025-06-12 18:30:00 America/Chicago
