@@ -2,7 +2,7 @@ title: Improving Receipt Understanding at Fetch
 ---
 author: Adam Frees
 ---
-future: yes
+future: no
 ---
 location: Fetch Rewards, 1050 E. Washington Ave., Suite 200
 ---
@@ -12,22 +12,18 @@ pub_datetime: 2025-03-13 18:30:00 America/Chicago
 ---
 body:
 
-![](/static/images/2025-03-13-Improving-Receipt-Understanding-Social-Card-1792x1024.png)
-
-**Note: this event is hosted at Fetch Rewards Headquarters in Downtown Madison. While the event is free and open to the public, attendees must RSVP for entrance.**
-
-**_Link for Required RSVP:_** https://lu.ma/uc9se65d
+![](/static/images/2025-03-13-Improving-Receipt-Understanding-1-2379x1784.jpg)
 
 Fetch uses machine learning to process images of receipts into structured data at scale (over 10 million images per day!). This is a big part of how Fetch can reward consumers at a large scale while providing brands an effective way to promote their products. However, due to the varied quality of these images, extracting this structured data can be challenging. In particular, associating product names with prices, quantities, and other details can be difficult to achieve in some low-quality images. In this talk, Adam will show how the combination of a cutting-edge object-detection ML model along with Graph-theory techniques (all implemented in Python) has led to a measurable increase in accuracy for Fetch’s receipt understanding.
 
 Adam Frees is the tech lead of the Machine Learning organization at Fetch. He holds a Bachelor's degree from Brown University and a Ph.D. in Physics from UW-Madison. Prior to Fetch, he worked as a software developer at Epic Systems, utilizing ML to process data from over 60 million patient records, and at Majesco, where he trained and deployed CV and NLP models for the Property & Casualty Insurance sector.
 ---
-image: https://madpy.com/static/images/2025-03-13-Improving-Receipt-Understanding-Social-Card-1200x630.png
+image: https://madpy.com/static/images/2025-03-13-Improving-Receipt-Understanding-1-1200x630.jpg
 ---
 image_height: 630
 ---
 image_width: 1200
 ---
-ogdescription: Learn how Fetch uses ML to turn images of receipts into structured data at scale! Hosted @ Fetch's downtown offices -- RSVP required.
+ogdescription: In March, we learned how Fetch uses ML to turn images of receipts into structured data at scale! MadPy attendees enjoyed free food and beverage along with a fascinating talk hosted at Fetch's downtown offices
 ---
 meetup_url: https://www.meetup.com/madison-python/events/305982723/
