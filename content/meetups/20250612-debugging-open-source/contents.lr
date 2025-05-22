@@ -23,3 +23,5 @@ image_width: 1200
 ogdescription: Join MadPy as we learn how to fix bugs in open source Python projects. Dave Hoese will walk us through the process from discovery to patch release. This event is free and open to all
 ---
 pub_datetime: 2025-06-12 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/307980843/
