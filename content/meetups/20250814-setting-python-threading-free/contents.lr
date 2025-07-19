@@ -23,3 +23,5 @@ image_width: 1200
 pub_datetime: 2025-08-14 18:30:00 America/Chicago
 ---
 meetup_url: https://www.meetup.com/madison-python/events/310039631/
+---
+ogdescription: Python's threading woes? A thing of the past. Dave Hoese breaks down Python's game-changing free-threading capabilities that finally unleash true multi-threaded performance. Get ready for a deep dive into concurrency vs. parallelism, threads vs. processes, and the notorious GIL
