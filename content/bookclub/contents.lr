@@ -19,7 +19,7 @@ We choose a book by voting in the #book-club Slack channel, and then we agree on
 a meeting format. Usually, this means breaking the book up into 6-7 chunks, and
 then we meet every other week to discuss each chunk.
 
-We cover roughly 3 books per year, spending 3-4 months on each book.
+We cover roughly 2 books per year, spending 3-4 months on each book.
 
 ### What books do you read?
 
@@ -38,26 +38,22 @@ we're starting a new book.
 
 ### Current Book
 
-We are currently working through [Operating Systems: 3 Easy
-Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) from UW's very own Remzi H.
-Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
-
-Because it's a pretty dense text and a real life actual college course, we're
-using the [video
-lectures](https://pages.cs.wisc.edu/%7Eremzi/Classes/537/Spring2018/Discussion/videos.html)
-as the primary text and the book as a supporting resource.
-
-We meet every two weeks to discuss the lectures and associated textbook chapters.
+TBD! We are working on selecting our next book, with discussion sessions to
+start in September. This will be a hands-on book, so head to the Slack to see
+the options and vote!
 
 **Discussion Schedule:**
 
-- 17 February 2025: Lectures 1 and 2 (and associated Discussions)
-- 03 March 2025: Lectures 3 and 4 (and associated Discussions)
-- 14 April 2025: Lectures 5 and 6 (and associated Discussions)
-- 21 April 2025: Lectures 7 and 8 (and associated Discussions)
-- 12 May 2025: Lectures 9 and 10 (and associated Discussions)
-- 02 June 2025: Lectures 11 and 12 (and associated Discussions)
-- 16 June 2025: Lectures 13 and 14
+TBD!
+
+### History
+
+Fall/Winter 2023: [**Designing Data Intensive Applications**](https://dataintensive.net/)
+Spring/Summer 2024: Exploring the new language [**Mojo**](https://docs.modular.com/mojo/manual/)
+Fall/Winter 2024: [**Crafting Interpreters**](https://craftinginterpreters.com/)
+Spring/Summer 2025: [**Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+Fall/Winter 2025: TBD
+
 
 
 ---
