@@ -38,13 +38,21 @@ we're starting a new book.
 
 ### Current Book
 
-TBD! We are working on selecting our next book, with discussion sessions to
-start in September. This will be a hands-on book, so head to the Slack to see
-the options and vote!
+[Python Playground (2nd Edition)](https://nostarch.com/python-playground-2nd-edition)
+
 
 **Discussion Schedule:**
 
-TBD!
+- Monday, August 25 2025: Recursive Algorithms and Drawing
+- Monday, September 08 2025: Simulations: Conways Game of Life, Birds
+- Monday, September 22 2025: Simulations: Personal Project
+- Monday, October 06 2025: Art: ASCII  art, photomosaics
+- Monday, October 20 2025: Art: Autostereograms and personal projects
+- Monday, November 03 2025: 3D: OpenGL and Conway's Game of Life in 3D
+- Monday, November 17 2025: 3D: Volume rendering and personal projects
+- Monday, December 01 2025: Hardware: Raspberri Pi Projects
+- Monday, December 15 2025: Hardware: Other IoT
+
 
 ### History
 
@@ -52,7 +60,7 @@ TBD!
 - Spring/Summer 2024: Exploring the new language [**Mojo**](https://docs.modular.com/mojo/manual/)
 - Fall/Winter 2024: [**Crafting Interpreters**](https://craftinginterpreters.com/)
 - Spring/Summer 2025: [**Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- Fall/Winter 2025: TBD
+- Fall/Winter 2025: [**Python Playground (2nd Edition)**](https://nostarch.com/python-playground-2nd-edition)
 
 
 
