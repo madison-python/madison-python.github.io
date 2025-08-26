@@ -4,7 +4,10 @@ author: Dave Hoese
 ---
 body:
 
-![](/static/images/2025-08-14-Setting-Python-Threading-Free-Social-Card-1536x1024.png)
+![](/static/images/2025-08-14-Setting-Python-Threading-Free-1-4032x3024.jpg)
+
+Slides from Dave's talk:
+ * [Downloadable .pdf Format](/static/slides/2025-08-14-Setting-Python-Threading-Free-slides.pdf)
 
 Python's inability to efficiently use multiple threads is a popular topic when discussing the performance of code written in Python. In this talk Dave Hoese will dive into Python's new free-threading functionality which greatly improves multi-threaded workflows in Python. We'll go over concepts like concurrency and parallelism, threads and processes, the Global Interpreter Lock (GIL), and show multiple examples of multi-threading in Python.
 
@@ -12,9 +15,9 @@ Dave is a software developer at the Space Science and Engineering Center at the 
 ---
 fediverse_handle: @djhoese@fosstodon.org
 ---
-future: yes
+future: no
 ---
-image: https://madpy.com/static/images/2025-08-14-Setting-Python-Threading-Free-Social-Card-1200x630.png
+image: https://madpy.com/static/images/2025-08-14-Setting-Python-Threading-Free-1-1200x630.jpg
 ---
 image_height: 630
 ---

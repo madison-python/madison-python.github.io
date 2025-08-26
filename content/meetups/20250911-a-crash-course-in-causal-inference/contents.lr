@@ -1,0 +1,29 @@
+title: A Crash Course in Causal Inference
+---
+author: Pierce Edmiston
+---
+body:
+
+![](/static/images/2025-09-11-A-Crash-Course-in-Causal-Inference-social-card-1536x1024.png)
+
+ML engineers have always been interested in prediction problems (predicting who will survive the Titanic, predicting the next word in a sentence), but what about cause and effect? In this talk, I will give you a crash course in causal inference, and try to convince you that prediction models cannot answer some of the more interesting questions we want to ask of our data. If this all sounds too academic, don't worry, I'll have plenty of examples in Python code using some of the popular packages that are out there (e.g., DoWhy).
+
+About the speaker: Pierce Edmiston is a Senior Principal Crafter at 8th Light, where he specializes in platform engineering and data science enablement for clients. He has a PhD in Cognitive Psychology from UW-Madison and he owes everything to Python.
+---
+future: yes
+---
+image: https://madpy.com/static/images/2025-09-11-A-Crash-Course-in-Causal-Inference-social-card-1200x630.png
+---
+image_height: 630
+---
+image_width: 1200
+---
+location: Madison Public Library -- Sequoya Branch, 4340 Tokay Blvd
+---
+location_url: https://maps.app.goo.gl/DJ1i5uYD62xFpycR7
+---
+pub_datetime: 2025-09-11 18:30:00 America/Chicago
+---
+ogdescription: Join MadPy as we explore causal inference in machine learning with Pierce Edmiston. Learn why prediction models aren't enough for certain data questions through Python examples using packages like DoWhy. This free event is open to all
+---
+meetup_url: https://www.meetup.com/madison-python/events/310712141/
