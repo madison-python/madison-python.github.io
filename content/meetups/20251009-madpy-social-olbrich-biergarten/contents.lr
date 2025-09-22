@@ -8,7 +8,7 @@ body:
 
 The Madison Python meetup group is hosting a social gathering at the Biergarten in Olbrich Park. We won't have a speaker or slides. Just friendly conversation. Whether you're an experienced software developer, someone interested to learn about the field, or just looking to meet new people, please join us as we enjoy one last outdoor get-together of the season.
 
-Olbrich Biergarten has beverages (both with & without alcohol), bar snacks, and a beautiful view of the lake. In case the Biergarten is closed (eg., for rain), we'll relocate to the Muskellounge &mdash; 4102 Monona Dr.
+Olbrich Biergarten has beverages (both with & without alcohol), bar snacks, and a beautiful view of the lake. To find us, look for Ed at one of the picnic tables. In case the Biergarten is closed (eg., for rain), we'll relocate to the Muskellounge &mdash; 4102 Monona Dr.
 
 **How To Get There**
 
@@ -33,3 +33,5 @@ location_url: https://maps.app.goo.gl/zVLYPjkou7zNkUDF7
 ogdescription: Come join the Madison Python community for an evening at the Olbrich Biergarten &mdash; 3527 Atwood Ave. We won't have a speaker or slides. Just friendly conversation. We welcome newcomers and experienced pythonistas alike.
 ---
 pub_datetime: 2025-10-09 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/311160767/
