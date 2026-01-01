@@ -1,0 +1,29 @@
+title: Your Laptop Isn't a Bop-It
+---
+author: Geoff Cureton
+---
+body:
+
+![](/static/images/2026-01-08-Your-Laptop-Isnt-a-Bop-It-social-card-1536x1024.png)
+
+For a lot of office jobs, but for software developers in particular, the keyboard is the primary means by which you perform your tasks and get through the day. But other than raw typing speed, scant consideration is generally given to the benefits of a keyboard-centric workflow. In this presentation I will describe my journey from a Win3.1 using, mouse-dependent terrible student developer, to a mechanical keyboard typing, Vim using, "Arch BTW!" huffing, mid professional developer!
+
+Keyboards, text editors, terminal multiplexers, desktop environments, tiling window managers, I'll (try to) cover them all! Your laptop isn't a Bop-It™, stop using it like one!
+
+Geoff Cureton is a physicist, data engineer and python developer at the Cooperative Institute for Meteorological Satellite Studies at the University of Wisconsin-Madison.
+---
+fediverse_handle: @gpcureton@mstdn.social
+---
+future: yes
+---
+image: https://madpy.com/static/images/2026-01-08-Your-Laptop-Isnt-a-Bop-It-social-card-1200x630.png
+---
+image_height: 630
+---
+image_width: 1200
+---
+meetup_url: https://www.meetup.com/madison-python/events/312665931/
+---
+ogdescription: Embrace the keyboard-centric workflow that separates efficient developers from the rest. Discover Vim, mechanical keyboards, and terminal tools that will revolutionize how you work. Don't miss Geoff Cureton's eye-opening at our January 8th MadPy meetup!
+---
+pub_datetime: 2026-01-08 18:30:00 America/Chicago
