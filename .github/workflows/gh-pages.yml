@@ -15,20 +15,16 @@ jobs:
       contents: write
     steps:
       - name: Check out
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
 
       - name: Lektor build
-        run: |
-            ls -l
-            pwd
-            sudo apt update
-            sudo apt install python3-venv pipx
-            pipx ensurepath
-            pipx install lektor
-            lektor build -O ./dist
+        run: uv run lektor build -O ./dist
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.ref == 'refs/heads/source' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
