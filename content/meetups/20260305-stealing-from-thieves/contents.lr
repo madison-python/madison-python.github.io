@@ -1,0 +1,27 @@
+title: Stealing From Thieves
+---
+author: Nicholas Anastasi
+---
+body:
+
+![](/static/images/2026-03-05-Stealing-From-Thieves-social-card-1536x1024.png)
+
+Remember running uTorrent to grab movies and music back in the day? Things have changed. Media piracy has evolved into polished, automated "homelab stacks" built on tools like Sonarr, Radarr, and their "Servarr" siblings. These stacks are assembled with dashboards, request portals, and media servers such as Plex and Jellyfin. With just a few clicks, anyone can stand up a streaming empire at home.
+
+But that convenience comes with an attack surface. These projects share code, reuse the same defaults, and often skip security altogether. We'll demonstrate how code-level vulnerabilities, such as authentication bypasses, insecure backup handling, and exposed services, put entire homelabs at risk. Along the way, we'll trace how hobbyist automation turned into a monoculture ripe for compromise, and why, as always, putting stuff on the Internet can be a bad idea.
+
+Nicholas Anastasi is the Director of Technical Operations at Sprocket Security where he hacks on companies and code. In his free time, Nicholas is an avid ultra distance runner with a serious addiction to candy. Nicholas has spoken at several conferences on various topics such as social engineering, password spraying and Active Directory attack paths.
+---
+future: yes
+---
+image: https://madpy.com/static/images/2026-03-05-Stealing-From-Thieves-social-card-1200x630.png
+---
+image_height: 630
+---
+image_width: 1200
+---
+ogdescription: Come join MadPy for a deep dive into the security risks lurking in modern media piracy homelabs. Learn how popular automation tools like Sonarr and Radarr have created a monoculture of interconnected services—and why that's a hacker's dream. Nicholas Anastasi reveals real vulnerabilities from authentication bypasses to exposed backups that put entire streaming empires at risk. Because convenience and security rarely go hand in hand.
+---
+pub_datetime: 2026-03-05 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/313483906/
