@@ -1,0 +1,27 @@
+title: Writing Tests: Good Intentions, Bad Practice
+---
+author: Dave Hoese
+---
+body:
+
+![](/static/images/2026-05-07-Writing-Tests-Good-Intentions-Bad-Practice-social-card-1536x1024.png)
+
+We know we're supposed to write tests for our software, but it always seems so difficult. In this talk Dave Hoese will describe the lessons learned and best practices developed while maintaining open source software. We'll focus on how tests should be approached and implemented by talking about gotchas and the traps that are easy to fall into. During this talk we'll go over some popular test plugins and utilities. Lastly, Dave will talk about his experience writing testing utilities for users.
+
+Dave is a software developer at the Space Science and Engineering Center at the University of Wisconsin-Madison. He graduated with a Bachelor's degree in Computer Engineering from UW-Madison. Dave works on writing software tools to assist atmospheric scientists with a focus on analyzing satellite and ground-based instrument data.
+---
+fediverse_handle: @djhoese@fosstodon.org
+---
+future: yes
+---
+image: https://madpy.com/static/images/2026-05-07-Writing-Tests-Good-Intentions-Bad-Practice-social-card-1200x630.png
+---
+image_height: 630
+---
+image_width: 1200
+---
+pub_datetime: 2026-05-07 18:30:00 America/Chicago
+---
+ogdescription: Join MadPy, as our speaker, Dave Hoese, will describe lessons learned and best practices developed while maintaining open source software. The talk will focus on how tests should be approached and implemented by talking about gotchas and the traps that are easy to fall into. We'll go over some popular test plugins and utilities. The event is free and open to the public. We look forward to seeing you!
+---
+meetup_url: https://www.meetup.com/madison-python/events/314523681/
