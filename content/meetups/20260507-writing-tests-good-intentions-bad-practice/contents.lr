@@ -4,7 +4,7 @@ author: Dave Hoese
 ---
 body:
 
-![](/static/images/2026-05-07-Writing-Tests-Good-Intentions-Bad-Practice-social-card-1536x1024.png)
+![](/static/images/2026-05-07-Writing-Tests-Good-Intentions-Bad-Practice-1-4032x3024.jpg)
 
 We know we're supposed to write tests for our software, but it always seems so difficult. In this talk Dave Hoese will describe the lessons learned and best practices developed while maintaining open source software. We'll focus on how tests should be approached and implemented by talking about gotchas and the traps that are easy to fall into. During this talk we'll go over some popular test plugins and utilities. Lastly, Dave will talk about his experience writing testing utilities for users.
 
@@ -12,9 +12,9 @@ Dave is a software developer at the Space Science and Engineering Center at the 
 ---
 fediverse_handle: @djhoese@fosstodon.org
 ---
-future: yes
+future: no
 ---
-image: https://madpy.com/static/images/2026-05-07-Writing-Tests-Good-Intentions-Bad-Practice-social-card-1200x630.png
+image: https://madpy.com/static/images/2026-05-07-Writing-Tests-Good-Intentions-Bad-Practice-1-1200x630.jpg
 ---
 image_height: 630
 ---
