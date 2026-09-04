@@ -4,7 +4,7 @@ author: Gordon Myers
 ---
 body:
 
-![](/static/images/2026-08-13-Orchestrated-social-card-1997x1331.png)
+![](/static/images/2026-08-13-Orchestrated-1-4032x3024.jpg)
 
 At some point, every project outgrows a cron job. You need retries, backfills, dependency graphs between tasks, and real visibility into what ran, what failed, and why. That's the moment you start evaluating workflow orchestrators, and the landscape has gotten crowded: Airflow, Dagster, Hatchet, Temporal, Prefect, and more, each with its own opinions about scheduling, failure handling, and how much infrastructure you're signing up to run.
 
@@ -12,9 +12,9 @@ This month, Gordon Myers walks us through an in-depth, head-to-head comparison o
 
 Gordon Myers has been a software engineer for 18 years and is currently working as a Principal Engineer at Helpside, a PEO company based out of Utah.
 ---
-future: yes
+future: no
 ---
-image: https://madpy.com/static/images/2026-08-13-Orchestrated-social-card-1200x630.png
+image: https://madpy.com/static/images/2026-08-13-Orchestrated-1-1200x630.jpg
 ---
 image_height: 630
 ---
