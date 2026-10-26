@@ -1,0 +1,31 @@
+title: What's New in Python 3.15
+---
+author: Josh Karpel
+---
+body:
+
+![](/static/images/2026-11-12-Whats-New-in-Python-3-15-social-card-1536x1024.png)
+
+Join us for a whirlwind tour of What's New in Python 3.15, the feature-packed new version of Python that's hot off the presses! Learn about the new built-in sampling profiler, under-the-hood performance improvements, a garbage collector change that didn't happen, fancy new typing features you'll never use, how to be lazy (about your imports), and more!
+
+Josh Karpel is a Principal Machine Learning Engineer at Workday where he designs and develops systems for connecting ML predictions to the outside world. Josh earned his PhD in physics at UW-Madison and was a Postdoctoral Fellow at the Morgridge Institute facilitating research computing at enormous scale through the Center for High Throughput Computing.
+---
+fediverse_handle: @joshkarpel@fosstodon.org
+---
+future: yes
+---
+image: https://madpy.com/static/images/2026-11-12-Whats-New-in-Python-3-15-social-card-1200x630.png
+---
+image_height: 630
+---
+image_width: 1200
+---
+location: Madison Public Library, 201 W Mifflin St, Room 302
+---
+location_url: https://maps.app.goo.gl/UpdANHPrWpstdDHe6
+---
+ogdescription: Join the Madison Python meetup group for a whirlwind tour of What's New in Python 3.15 with Josh Karpel on Thursday, November 12th.
+---
+pub_datetime: 2026-11-12 18:30:00 America/Chicago
+---
+meetup_url: https://www.meetup.com/madison-python/events/317147553/
